@@ -72,3 +72,6 @@ document.querySelectorAll(".elem1").forEach((elem)=>{
         })
     })
 })
+
+
+
